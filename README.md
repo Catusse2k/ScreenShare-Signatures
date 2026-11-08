@@ -96,7 +96,3 @@ Pull requests and issues are welcome: new signatures, false positives, correctio
 ## Disclaimer
 
 This tool is intended for moderation and security purposes. Using it on systems without authorization is prohibited. The scanner's output is an **indicator**, not definitive proof: every ban decision should be confirmed by a manual review.
-
-## License
-
-Choose the license you prefer (e.g. MIT) and add a `LICENSE` file.
